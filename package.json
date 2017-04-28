@@ -31,16 +31,16 @@
     "selectify",
     "angularjs"
   ],
-  "author": "Vyacheslav Chub <vyacheslav.chub@valor-software.com>",
+  "author": "Julian Wielga <j.gh@touk.pl>, Vyacheslav Chub <vyacheslav.chub@valor-software.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/valor-software/ng2-select.git"
+    "url": "git+ssh://git@github.com/JulianWielga/ng2-select.git"
   },
   "bugs": {
-    "url": "https://github.com/valor-software/ng2-select/issues"
+    "url": "https://github.com/JulianWielga/ng2-select/issues"
   },
-  "homepage": "https://github.com/valor-software/ng2-select#readme",
+  "homepage": "https://github.com/JulianWielga/ng2-select#readme",
   "peerDependencies": {
     "@angular/common": "^2.3.0",
     "@angular/core": "^2.3.0"
@@ -113,6 +113,11 @@
     "zone.js": "0.7.5"
   },
   "contributors": [
+    {
+      "name": "Julian Wielga",
+      "email": "j.gh@touk.pl",
+      "url": "https://github.com/JulianWielga"
+    },
     {
       "name": "Vyacheslav Chub",
       "email": "vyacheslav.chub@valor-software.com",
